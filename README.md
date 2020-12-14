@@ -15,3 +15,5 @@ Steps for running this code ("New Data Gathering, Cleaning, and Regressions.ipyn
   (e) stargazer
 
 (3) Run the "New Data Gathering, Cleaning, and Regressions.ipynb" file in Jupyter Notebooks locally. If you would like to run the code purely as a Python file then simply copy and paste all the code from the file into a text file and then save that file as a .py file instead. Then it can be run from the Python terminal or another Python IDE.
+
+Questions about these documents may be addressed to lni98@umd.edu.
